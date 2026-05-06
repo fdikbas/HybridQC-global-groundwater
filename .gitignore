@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE / OS
+.ipynb_checkpoints/
+.spyproject/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Local outputs
+out_anomalies/
+out_figs_network/
+out_paper2_figure_designs/
+
+# Logs / temporary
+*.log
+*.tmp
+
+# Optional if large archives are hosted through release assets instead of git
+data/large_files/*.zip

@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the archived release and the associated journal article."
+title: "HybridQC-global-groundwater"
+type: software
+authors:
+  - family-names: "DİKBAŞ"
+    given-names: "Fatih"
+    orcid: "https://orcid.org/0000-0001-5779-2801"
+  - family-names: "ALKAYA"
+    given-names: "Devrim"
+abstract: >
+  Code and derived workflow products for HybridQC, a transparency-first
+  preprocessing workflow for heterogeneous annual groundwater records,
+  including strict consecutive-year anomaly construction, level–year
+  quality control, audit artifacts, range metadata, and cache-stable
+  downstream reuse.
+repository-code: "https://github.com/YOUR_GITHUB_USERNAME/HybridQC-global-groundwater"
+url: "https://github.com/YOUR_GITHUB_USERNAME/HybridQC-global-groundwater"
+license: "MIT"
+version: "v1.0.0"
+doi: "10.5281/zenodo.YOUR_RELEASE_DOI"
+keywords:
+  - groundwater anomalies
+  - quality control
+  - reproducibility
+  - data provenance
+  - cache-stable workflows
+  - hydrology
