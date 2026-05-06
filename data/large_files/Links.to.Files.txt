@@ -1,0 +1,5 @@
+station_anomalies_all.csv:
+https://1drv.ms/x/c/c5ce8c307e9b9c44/IQBHqHMqQceJRpuJHFoNN_8jARhJenLPDvRG8tPyrKfWPuQ?e=kNJdEK
+
+station_decadal_stats.csv:
+https://1drv.ms/x/c/c5ce8c307e9b9c44/IQAS60xqLAXjS5j1OPAGMcv0AUbyl9PhcqWkJDsio7Ob8SY?e=ni9wip
